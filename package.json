@@ -1,0 +1,14 @@
+{
+  "name": "api-js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "usha",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^11.0.1"
+  }
+}
